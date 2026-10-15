@@ -37,7 +37,7 @@ Threshold Decision Gate [P(Fraud) > Threshold]
 ## 🚀 Quickstart & Reproduction
 
 ```bash
-git clone url?id=2.git
+git clone [https://github.com/Vishwadhar0000/Mobile-Click-Fraud-Anomaly-Detector.git](https://github.com/Vishwadhar0000/Mobile-Click-Fraud-Anomaly-Detector.git)
 cd Mobile-Click-Fraud-Anomaly-Detector
 pip install -r requirements.txt
 python detect_fraud.py
