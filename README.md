@@ -30,3 +30,9 @@ Cost-Sensitive Ensemble Scoring (Random Forest / Isolation Classifier)
 Threshold Decision Gate [P(Fraud) > Threshold]
      ├── Flagged (Bot / Automated Click Injection Blocked)
      └── Cleared (Legitimate User Interaction Logged)
+
+
+git clone [https://github.com/Vishwadhar0000/Mobile-Click-Fraud-Anomaly-Detector.git](https://github.com/Vishwadhar0000/Mobile-Click-Fraud-Anomaly-Detector.git)
+cd Mobile-Click-Fraud-Anomaly-Detector
+pip install -r requirements.txt
+python detect_fraud.py
