@@ -32,8 +32,6 @@ Threshold Decision Gate [P(Fraud) > Threshold]
      └── Cleared (Legitimate User Interaction Logged)
 ```
 
----
-
 ## 🚀 Quickstart & Reproduction
 
 ```bash
